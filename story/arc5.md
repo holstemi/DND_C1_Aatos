@@ -34,4 +34,6 @@ Short restin jälkeen Rhundar ja Fortune hiipivät tappamaan lepakoita, mutta pa
 
 Taistelu. Init: 15, 19, 4, 5, 10, 14, 13, 4, 10, 5
 
-Rhundar ja Tresi kuolevat taistelussa. Fortune tappaa viimeisen lepakon ja kuolee sen jälkeen nuolisateeseen. Aatos ja Adam lähtevät hurjasutena pakoon viemään palloa Tossaliaan. 
+Rhundar ja Tresi kuolevat taistelussa. Fortune tappaa viimeisen lepakon ja kuolee sen jälkeen nuolisateeseen. Aatos ja Adam lähtevät hurjasutena pakoon viemään palloa Tossaliaan.
+
+**Peli päättyy**
